@@ -1,101 +1,83 @@
-# 👋 Hi, I'm Gowshick M!  
+<h1 align="center">🚀 Gowshick M 🚀</h1>
 
-🚀 Passionate **Full-Stack Java Developer** with experience in **Java, SQL, Web Technologies, and Software Testing**.  
-I love designing, developing, and ensuring the quality of innovative software solutions.  
-
-📫 **Contact Me:**  
-[![Email](https://img.shields.io/badge/Email-gowshickganthi2001@gmail.com-red?style=flat-square&logo=gmail)](mailto:gowshickganthi2001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/your-github)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&lines=Full-Stack+Java+Developer;Software+Testing+Enthusiast;Passionate+Problem+Solver" />
+</p>
 
 ---
 
-## 🚀 Tech Stack  
+## 🌌 About Me  
+💻 **Full-Stack Java Developer** | 🎯 **Software Testing Enthusiast**  
+🎓 **B.E. Computer Science & Engineering** | 🚀 **Building Scalable Applications**  
+📍 **Trichy, Tamil Nadu, India**  
 
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5)  
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)  
-
-**Backend:**  
-![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java)  
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)  
-![PHP](https://img.shields.io/badge/PHP-purple?style=flat-square&logo=php)  
-
-**Database:**  
-![SQL](https://img.shields.io/badge/SQL-MySQL?style=flat-square&logo=mysql)  
+🌱 **Currently Learning:** Advanced Java, Web Security  
+🔭 **Open to:** Collaborations & Internships  
 
 ---
 
-## 🔥 Projects  
+## 🛠️ Tech Stack  
 
-### 📌 **Quarantine Alert System**  
-🛠 **Backend:** Java  
-🔹 Developed a system that **notifies users** about quarantine zones and provides **real-time updates**.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,php,html,css,js,mysql,react,dotnet" />
+</div>
 
-### 📌 **LiFi Technology for Network Congestion Control**  
-🛠 **Technology:** IoT  
-🔹 Engineered a **LiFi-based solution** to **reduce network congestion** and improve **data transfer speed**.
-
-### 📌 **GIS for Deep Sea Fishing**  
-🛠 **Frontend:** React Native | **Backend:** .NET, SQL  
-🔹 Built a **geospatial data integration system** to help **fishermen find optimal fishing locations**.
-
-### 📌 **Expert Supreme Court Decision Predictions**  
-🛠 **Frontend:** HTML, CSS, JS | **Backend:** Python  
-🔹 Implemented **AI-based predictions** for **Supreme Court case outcomes** based on historical data.
-
-### 📌 **Orphanage Management System**  
-🛠 **Frontend:** HTML, CSS | **Backend:** PHP, MySQL  
-🔹 Created an **automated platform** to **streamline orphanage management operations**.
+🖥️ **Frontend:** HTML, CSS, JavaScript  
+⚙️ **Backend:** Java, Python, PHP  
+🗄️ **Database:** SQL  
+🛠️ **Tools:** Git, VS Code, IntelliJ IDEA  
 
 ---
 
-## 🎓 Education  
+## 🚀 Featured Projects  
 
-📍 **Full Stack Java Development & Testing** (QSpiders, Chennai) | *2025*  
-📍 **B.E. Computer Science and Engineering** (Chettinad College of Engineering & Technology) | *2024*  
-📍 **B.Sc. Physics** (PGP College of Arts & Science) | *2021*  
+### 🔹 **Quarantine Alert System**  
+🛠 **Java Backend** | 📡 **Real-time Updates**  
+🔹 A system that **notifies users** about quarantine zones and provides **live updates**.
+
+### 🔹 **LiFi Network Congestion Control**  
+🛠 **IoT | LiFi Technology**  
+🔹 Implemented **LiFi-based solutions** to **reduce network congestion** and enhance **data transfer speeds**.
+
+### 🔹 **GIS for Deep Sea Fishing**  
+🛠 **React Native, .NET, SQL**  
+🔹 Developed a **geospatial data system** for **optimal fishing location tracking**.
+
+### 🔹 **AI Supreme Court Decision Prediction**  
+🛠 **HTML, CSS, JavaScript, Python**  
+🔹 Created an **AI model** that predicts **Supreme Court case outcomes** based on historical data.
+
+### 🔹 **Orphanage Management System**  
+🛠 **HTML, CSS, PHP, MySQL**  
+🔹 Designed an **automated platform** to streamline **orphanage management operations**.
 
 ---
 
 ## 🏆 Achievements  
 
-- 🥇 **2nd Prize** in **Web Development Competition**  
-- 🎓 **Python for Data Science (NPTEL) Certification**  
-- 🎓 **Full-Stack Python Programming (GUVI)**  
-- 🎓 **Full-Stack Web Development (Infosys Springboard)**  
-- 📝 **Published Paper** in **IJARESM Journal**  
+- 🥇 **2nd Prize** in Web Development Competition  
+- 📜 **Python for Data Science (NPTEL) Certification**  
+- 🏅 **Full-Stack Web Development (Infosys Springboard)**  
+- 📖 **Published Research Paper** in IJARESM Journal  
 
 ---
 
-## 💼 Internships  
+## 🔥 Internships & Experience  
 
 - 💻 **Web Development Intern** - Code Bind Technology, Trichy  
 - 🔍 **Full Stack Java Development & Testing**  
-- 🔬 **Completed In-Plant Training in Web Development**  
-- 📈 **Corporate Training on Aptitude Development**  
+- 📡 **Corporate Training** on Aptitude Development  
 
 ---
 
-## 📢 Workshops & Conferences  
+## 📢 Let's Connect!  
 
-- 💡 **Android Development Workshop**  
-- 🎤 **Conference on Recent Trends in Advanced Materials (Physics)**  
-
----
-
-## 📌 Personal Details  
-
-- **📅 Date of Birth:** 07/05/2001  
-- **🧑 Age:** 23  
-- **🗣 Languages:** Tamil, English  
-- **📍 Location:** Trichy, Tamil Nadu, India  
+<p align="center">
+  <a href="mailto:gowshickganthi2001@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/your-github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-💬 **Let's Connect & Build Together!** 🚀  
-
-[![GitHub](https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=flat-square&logo=github)](https://github.com/your-github)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-gowshickganthi2001@gmail.com-red?style=flat-square&logo=gmail)](mailto:gowshickganthi2001@gmail.com)  
+<p align="center">💻 <i>"Code, Debug, Innovate, Repeat!"</i> 🚀</p>
