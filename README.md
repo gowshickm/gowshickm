@@ -1,83 +1,47 @@
-<h1 align="center">🚀 Gowshick M 🚀</h1>
+<h2 align="left">Hi 👋! My name is  Gowshick M</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&lines=Full-Stack+Java+Developer;Software+Testing+Enthusiast;Passionate+Problem+Solver" />
-</p>
-
----
-
-## 🌌 About Me  
-💻 **Full-Stack Java Developer** | 🎯 **Software Testing Enthusiast**  
-🎓 **B.E. Computer Science & Engineering** | 🚀 **Building Scalable Applications**  
-📍 **Trichy, Tamil Nadu, India**  
-
-🌱 **Currently Learning:** Advanced Java, Web Security  
-🔭 **Open to:** Collaborations & Internships  
-
----
-
-## 🛠️ Tech Stack  
+###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,php,html,css,js,mysql,react,dotnet" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gowshickm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gowshickm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-🖥️ **Frontend:** HTML, CSS, JavaScript  
-⚙️ **Backend:** Java, Python, PHP  
-🗄️ **Database:** SQL  
-🛠️ **Tools:** Git, VS Code, IntelliJ IDEA  
+###
 
----
+<img align="right" height="150" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  />
 
-## 🚀 Featured Projects  
+###
 
-### 🔹 **Quarantine Alert System**  
-🛠 **Java Backend** | 📡 **Real-time Updates**  
-🔹 A system that **notifies users** about quarantine zones and provides **live updates**.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+</div>
 
-### 🔹 **LiFi Network Congestion Control**  
-🛠 **IoT | LiFi Technology**  
-🔹 Implemented **LiFi-based solutions** to **reduce network congestion** and enhance **data transfer speeds**.
+###
 
-### 🔹 **GIS for Deep Sea Fishing**  
-🛠 **React Native, .NET, SQL**  
-🔹 Developed a **geospatial data system** for **optimal fishing location tracking**.
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+</div>
 
-### 🔹 **AI Supreme Court Decision Prediction**  
-🛠 **HTML, CSS, JavaScript, Python**  
-🔹 Created an **AI model** that predicts **Supreme Court case outcomes** based on historical data.
+###
 
-### 🔹 **Orphanage Management System**  
-🛠 **HTML, CSS, PHP, MySQL**  
-🔹 Designed an **automated platform** to streamline **orphanage management operations**.
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/gowshickm/gowshickm/output/snake.svg" alt="Snake animation" />
 
-## 🏆 Achievements  
-
-- 🥇 **2nd Prize** in Web Development Competition  
-- 📜 **Python for Data Science (NPTEL) Certification**  
-- 🏅 **Full-Stack Web Development (Infosys Springboard)**  
-- 📖 **Published Research Paper** in IJARESM Journal  
-
----
-
-## 🔥 Internships & Experience  
-
-- 💻 **Web Development Intern** - Code Bind Technology, Trichy  
-- 🔍 **Full Stack Java Development & Testing**  
-- 📡 **Corporate Training** on Aptitude Development  
-
----
-
-## 📢 Let's Connect!  
-
-<p align="center">
-  <a href="mailto:gowshickganthi2001@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/your-github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">💻 <i>"Code, Debug, Innovate, Repeat!"</i> 🚀</p>
+###
